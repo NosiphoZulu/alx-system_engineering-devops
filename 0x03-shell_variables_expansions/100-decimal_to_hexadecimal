@@ -1,0 +1,2 @@
+#!/bin/bas
+prinf "%x\n" $DECIMAL
