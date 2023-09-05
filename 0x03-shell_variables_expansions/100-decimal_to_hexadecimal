@@ -1,2 +1,2 @@
 #!/bin/bas
-prinf "%x\n" $DECIMAL
+prinf "%.x\n" $DECIMAL
